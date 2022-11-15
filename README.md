@@ -9,7 +9,7 @@ https://moralis.io/how-to-set-up-a-self-hosted-web3-server/
 3. Installed dependencies
 
 4. Connected application to metamask
-![Alt text](/1.png?raw=true "Optional Title")
+![Alt text](/1.jpeg?raw=true "Optional Title")
 
 5. NFT reflected in the opensea
-![Alt text](/2.png?raw=true "Optional Title")
+![Alt text](/2.jpeg?raw=true "Optional Title")
